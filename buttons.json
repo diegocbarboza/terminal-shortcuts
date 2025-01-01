@@ -1,0 +1,27 @@
+[
+    {
+        "label": "Show Python version",
+        "command": "python --version",
+        "group": "group 1"
+    },
+    {
+        "label": "Show Python version (custom terminal)",
+        "command": "python --version",
+        "terminal": "python",
+        "group": "group 1"
+    },
+    {
+        "label": "Create .venv",
+        "command": "python -m venv .venv",
+        "group": "group 2"
+    },
+    {
+        "label": "Activate .venv",
+        "command": ".venv/Scripts/Activate.ps1",
+        "group": "group 2"
+    },
+    {
+        "label": "Deactivate .venv",
+        "command": "deactivate"
+    }
+]
