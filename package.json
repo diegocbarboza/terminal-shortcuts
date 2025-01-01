@@ -2,8 +2,9 @@
   "name": "terminal-shortcuts",
   "displayName": "Terminal Shortcuts",
   "description": "Run custom commands directly in your terminal",
+  "icon": "resources/icon.png",
   "version": "0.0.1",
-  "publisher": "Diego CB",
+  "publisher": "diegocb-extensions",
   "repository": {
     "type": "git",
     "url": "https://github.com/diegocbarboza/terminal-shortcuts"
